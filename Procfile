@@ -1,1 +1,1 @@
-web: unicorn ecommerce.wsgi
+web: gunicorn stripe.wsgi
