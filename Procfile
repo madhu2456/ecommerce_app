@@ -1,1 +1,1 @@
-web: gunicorn stripe.wsgi
+web: unicorn stripe.wsgi
